@@ -16,5 +16,4 @@ Kariyerim boyunca çeşitli projelerde yazılım uzmanı ve takım lideri olarak
 - **Araçlar ve Teknolojiler**: Visual Studio, Visual Studio Code, DevOps, Git, TFS
 - **Diğer Yetkinlikler**: Ürün ve proje yönetimi, liderlik, analiz ve iş kurgusu oluşturma
 
-- 
 Teşekkürler ve projelerime göz atmak için GitHub profilimi ziyaret edebilirsiniz!
