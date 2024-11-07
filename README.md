@@ -1,19 +1,25 @@
-# Ekrem Bülbül - GitHub README
+### Hello there 👋
 
-## Hakkımda
-Merhaba, ben Ekrem Bülbül. Eskişehir Osmangazi Üniversitesi İstatistik bölümünden mezunum ve şu anda Anadolu Üniversitesi Bilgisayar Programlama bölümünde öğrenciyim. 6 yıldır full stack geliştirici olarak profesyonel deneyimim var. Bu süre zarfında farklı projelerde çalıştım ve çeşitli teknolojilerde uzmanlık kazandım.
+#### A Full-Stack Developer by day and a Project Enthusiast by night ☾
 
-## Deneyim ve Projeler
-Kariyerim boyunca çeşitli projelerde yazılım uzmanı ve takım lideri olarak görev aldım. B2G ve B2B entegrasyon projelerinde yer aldım, özellikle yabancı ülkelerle (Rusya, Kazakistan, Suudi Arabistan, Özbekistan) entegrasyon projelerinde çalıştım. Ayrıca SAP ve Rfxcel gibi ERP sistemleriyle entegrasyonlar gerçekleştirdim. Öne çıkan projelerimden bazıları:
+Full-Stack Developer with 6+ years of experience;<br>
+Currently a student studying Computer Programming at Anadolu University (Open Education Faculty) and holding a degree in Statistics from Eskişehir Osmangazi University.<br>
 
-- **E-İmar Belediye Talep Yönetim ve Süreç Projesi**: Türkiye genelinde 20'den fazla belediyede kullanılan bu projede yazılım takım lideri olarak kurgu, görsel tasarım ve web servis entegrasyonlarını geliştirdim.
-- **Bireysel Müşteri Hakem Heyeti Başvuru Sistemi (TKBB)**: Projede takım lideri olarak e-Devlet ve Mernis entegrasyonları ile birlikte altyapı ve görsel tasarımda çalıştım.
-- **Serbest Projeler**: Saha Satış Ekibi İş Atama ve Takip Programı gibi bağımsız projeler geliştirdim ve çeşitli modüllerle zenginleştirdim.
+- ⚙️ I use daily: `.cs`, `.js`, `.html`, `.css`, `.sql`
+- 🌍 I'm actively contributing to various **.NET** and **web development** projects
+- 🛠 Worked on: SAP, B2G/B2B integrations, and complex ERP systems
 
-## Teknik Yetenekler
-- **Programlama Dilleri**: C#, JavaScript, MSSQL
-- **Frameworkler**: .NET, .NET Core, MVC Framework, Vue.js, AngularJS
-- **Araçlar ve Teknolojiler**: Visual Studio, Visual Studio Code, DevOps, Git, TFS
-- **Diğer Yetkinlikler**: Ürün ve proje yönetimi, liderlik, analiz ve iş kurgusu oluşturma
+---
 
-Teşekkürler ve projelerime göz atmak için GitHub profilimi ziyaret edebilirsiniz!
+### Merhaba 👋
+
+#### Gündüzleri Full-Stack Developer ve geceleri Proje Meraklısı ☾
+
+6+ yıllık deneyime sahip Tam Yığın Geliştirici;<br>
+Şu anda Anadolu Üniversitesi (Açıköğretim Fakültesi) Bilgisayar Programcılığı bölümünde öğrenci ve Eskişehir Osmangazi Üniversitesi'nden İstatistik lisans derecesine sahibim.<br>
+
+- ⚙️ Günlük kullandıklarım: `.cs`, `.js`, `.html`, `.css`, `.sql`
+- 🌍 **.NET** ve **web geliştirme** projelerinde aktif olarak yer alıyorum
+- 🛠 Çalıştığım projeler: SAP, B2G/B2B entegrasyonları ve karmaşık ERP sistemleri
+
+---
